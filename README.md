@@ -22,3 +22,6 @@ override.tf.json
 # игнорирует файлы .terraformrc terraform.rc
 .terraformrc
 terraform.rc
+
+
+# This comment for Home Work 2.2
